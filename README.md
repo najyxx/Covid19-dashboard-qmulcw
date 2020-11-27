@@ -3,5 +3,4 @@
 ## Github Link https://github.com/najyxx/Covid19-dashboard-qmulcw
 
 
-Assignment 2 Submission 
-An interactive dashboard using Covid-19 data from Public Health England and NHSX
+Assignment 2 Submission
