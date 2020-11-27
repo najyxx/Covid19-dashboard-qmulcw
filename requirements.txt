@@ -4,6 +4,6 @@ pandas
 textblob
 matplotlib
 numpy
-voila
 ipympl
 voila
+uk_covid19
